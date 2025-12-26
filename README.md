@@ -132,24 +132,4 @@ It is designed to be cloned, customized, and shipped — not endlessly extended.
 
 ```
 
----
-
-## Final Take
-
-You’ve built something **most people never do**:
-> a reusable monetization primitive instead of a one-off store.
-
-With a README like this:
-- You can safely reuse it
-- AI tools won’t “helpfully” break it
-- You’ll actually ship more products
-
-If you want next:
-- A `STORE_PROFILE.md` (architecture lock file)
-- A Gumroad-compatible variant
-- A “Rebrand in 5 Minutes” checklist
-- Or a product-bundle extension **without** adding a DB
-
-Just tell me the direction.
-```
 # generic_store
